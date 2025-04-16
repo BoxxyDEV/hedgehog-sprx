@@ -1,0 +1,24 @@
+#
+#  Mon Sep 04 14:30:14 2023
+#  cellPrx_Hedgehog: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_Hedgehog_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.9 2012-02-28 23:33:17)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0001
+#
+log_version_update on
+logging on
+removed_entry_check on
+target_version_check on
+  0xdcbb424e F/0 56 c78277fbd09c0d8a1d548964638c8a9c40e64874 .text gtav_stop
+#
+#  Sat Mar 30 13:03:27 2024
+#  cellPrx_Hedgehog: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_Hedgehog_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.9 2012-02-28 23:33:17)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0002
+#
+  0xdcbb424e F/0 56 e4e4092f26f06ab2b39564f695259c2104477804 .text gtav_stop
